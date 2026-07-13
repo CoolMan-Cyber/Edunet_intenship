@@ -1,0 +1,30 @@
+------------------------------------------------------------
+                CAPSTONE PROJECT DETAILS
+------------------------------------------------------------
+
+Project Title:
+Eco-Scan AI – Smart Waste Detection and Recycling Assistant
+
+Project Domain:
+Artificial Intelligence | Computer Vision | Sustainability | Green Skills
+
+Project Description:
+Eco-Scan AI is an AI-powered waste detection and recycling assistant designed to promote proper waste management and environmental sustainability. The system allows users to upload or capture an image of a waste item. Using computer vision and machine learning, the application identifies the type of waste, classifies it into the appropriate category, and provides the correct disposal or recycling method. It also offers recycling tips and environmental awareness to encourage responsible waste disposal.
+
+Project Objectives:
+• Detect waste from uploaded images.
+• Classify waste into categories such as Plastic, Paper, Glass, Metal, Organic, and E-waste.
+• Recommend the appropriate disposal or recycling bin.
+• Provide recycling tips and environmental awareness.
+• Support sustainable waste management using Artificial Intelligence.
+
+Team Members:
+
++----+----------------------+----------------+---------------------------+----------------+-----------------------------------------------+---------+
+| Sr | Full Name                     | Enrollment No. | Email ID                  | Phone Number   | College Name                                   |
++----+----------------------+----------------+---------------------------+----------------+-----------------------------------------------+---------+
+| 1  | PANDYA RISHI KANAIYALAL       | 230610107025   |pandyarishi93@gmail.com    | 9352192844     | Government Engineering College, Palanpur       |
++----+----------------------+----------------+---------------------------+----------------+-----------------------------------------------+---------+                                
+| 2  | Parmar Kuldeepkumar Pravinbhai| 230610107026   |kuldeepparmar92222gmail.com| 9724944920     | Government Engineering College, Palanpur       |
++----+----------------------+----------------+---------------------------+----------------+-----------------------------------------------+---------+                                   
++----+----------------------+----------------+---------------------------+----------------+-----------------------------------------------+---------+
